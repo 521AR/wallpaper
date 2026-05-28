@@ -1,0 +1,1 @@
+A modern cross-platform wallpaper application built with uni-app and Vue 3. Features dynamic swiper banners, categorized wallpaper discovery, and a personalized user dashboard to track downloads and favorites. Designed with an immersive UI and powered by SCSS for a high-performance visual experience.
