@@ -1,0 +1,11 @@
+/* 公用的CSS样式 */
+view,swiper,swiper-item{
+	box-sizing:border-box;//内填充
+	
+}
+.pageBg{
+	background:
+		linear-gradient(to bottom,transparent,#fff 400rpx),
+		linear-gradient(to right,#beecd8 20%,#f4E2D8);
+	min-height: 80vh;
+}
